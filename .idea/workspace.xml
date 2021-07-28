@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a53f65-3f72-4322-b21e-5beb9c6d0b48" name="Default Changelist" comment="" />
+    <list default="true" id="77a53f65-3f72-4322-b21e-5beb9c6d0b48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/vendors/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/vendors/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/vendors/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/includes/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/includes/sidebar.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,16 +144,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/lang" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/admin" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ecommerce\resources\views\admin" />
       <recent name="C:\xampp\htdocs\ecommerce\resources\lang" />
       <recent name="C:\xampp\htdocs\ecommerce\resources\lang\en" />
       <recent name="C:\xampp\htdocs\ecommerce\resources\lang\ar" />
-      <recent name="C:\xampp\htdocs\ecommerce\resources\views\admin" />
       <recent name="C:\xampp\htdocs\ecommerce\app\Helpers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -355,6 +363,16 @@
       <workItem from="1627389323354" duration="1449000" />
       <workItem from="1627391149334" duration="939000" />
       <workItem from="1627393122861" duration="427000" />
+      <workItem from="1627393593023" duration="1291000" />
+      <workItem from="1627453011929" duration="591000" />
+      <workItem from="1627466753483" duration="1534000" />
+      <workItem from="1627468518866" duration="1760000" />
+      <workItem from="1627470349588" duration="598000" />
+      <workItem from="1627472200262" duration="1705000" />
+      <workItem from="1627474064211" duration="1107000" />
+      <workItem from="1627475884567" duration="1193000" />
+      <workItem from="1627477697685" duration="1313000" />
+      <workItem from="1627479514969" duration="598000" />
     </task>
     <servers />
   </component>
@@ -371,5 +389,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
