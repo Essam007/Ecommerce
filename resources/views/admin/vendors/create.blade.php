@@ -130,21 +130,21 @@
                                                 </div>
 
 
-                                                <div class="row">
-                                                    <div class="class col-12">
-                                                        <div class="form-group">
-                                                            <label for="projectinput1">كلمة المرور  </label>
-                                                            <input type="password" id="password"
-                                                                   class="form-control"
-                                                                   placeholder="  " name="password">
+{{--                                                <div class="row">--}}
+{{--                                                    <div class="class col-12">--}}
+{{--                                                        <div class="form-group">--}}
+{{--                                                            <label for="projectinput1">كلمة المرور  </label>--}}
+{{--                                                            <input type="password" id="password"--}}
+{{--                                                                   class="form-control"--}}
+{{--                                                                   placeholder="  " name="password">--}}
 
-                                                            @error("password")
-                                                            <span class="text-danger"> {{$message}}</span>
-                                                            @enderror
-                                                        </div>
+{{--                                                            @error("password")--}}
+{{--                                                            <span class="text-danger"> {{$message}}</span>--}}
+{{--                                                            @enderror--}}
+{{--                                                        </div>--}}
 
-                                                    </div>
-                                                </div>
+{{--                                                    </div>--}}
+{{--                                                </div>--}}
 
 
                                                 <di class="row">

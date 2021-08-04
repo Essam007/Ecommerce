@@ -40,7 +40,7 @@ class Vendor extends Model
     public function category()
     {
 
-        return $this->belongsTo('App\Models\MainCategory', 'category_id', 'id');
+        return $this->belongsTo('App\Models\MainCategories', 'category_id', 'id');
     }
 
     public function getActive()
