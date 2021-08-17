@@ -51,5 +51,4 @@ class VendorRequest extends FormRequest
 
         ];
     }
-
 }

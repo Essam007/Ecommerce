@@ -2,9 +2,9 @@
 
 namespace App\Models;
 
-//use App\Observers\MainCategoryObserver;
+use App\Observers\MainCategoryObserver;
 use Illuminate\Database\Eloquent\Model;
-//use App\Models\SubCategory;
+use App\Models\SubCategory;
 class MainCategories extends Model
 {
     protected $table = 'main_categories';
@@ -54,9 +54,9 @@ class MainCategories extends Model
     }
 
 
-//    public  function subCategories(){
-//        return $this -> hasMany(SubCategory::class,'category_id','id');
-//    }
+    public  function subCategories(){
+        return $this -> hasMany(SubCategory::class,'category_id','id');
+    }
 
 
 
